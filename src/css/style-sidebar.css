@@ -1,0 +1,22 @@
+.conteiner-bar{
+    float: left;
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    position: absolute;
+    height: 100vh;
+    top: 0; left: 0;
+}
+
+.elements-bar{
+    width: 100px;
+    max-width: 250px;
+    background: #1c1c1c;
+    height: 100vh;
+    position: relative;
+}
+
+.elements-bar a{
+    display: block;
+    text-decoration: none;
+    padding: 20px;
+}
