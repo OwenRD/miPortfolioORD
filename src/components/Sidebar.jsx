@@ -5,6 +5,8 @@ function Sidebar() {
      <>
 
       <div className='conteiner-bar'>
+      
+      <div className="block"></div>
 
       <nav className='elements-bar'>
         <a href="#">Inicio</a>
