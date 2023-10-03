@@ -1,0 +1,22 @@
+.app{
+    display: grid;
+    grid-template-columns: auto 2fr;
+    grid-template-rows: auto 1fr;
+    grid-template-areas: 
+    "sidebar body body"
+    "sidebar footer footer";
+    min-height: 100vh;
+}
+
+.conteiner-bar{
+    grid-area: sidebar;
+}
+
+.conteiner-body{
+    grid-area: body;
+    width: 70%;
+}
+
+.footer{
+    grid-area: footer;
+}

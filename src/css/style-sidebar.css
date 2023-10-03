@@ -12,7 +12,8 @@
     max-width: 250px;
     background: #1c1c1c;
     height: 150vh;
-    position: relative;
+    position: fixed;
+    margin-right: 30px;
 }
 
 
@@ -34,3 +35,4 @@
     height: 15vh;
     width: 100px;
 }
+
