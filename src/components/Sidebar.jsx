@@ -6,7 +6,9 @@ function Sidebar() {
 
       <div className='conteiner-bar'>
       
-      <div className="block"></div>
+      <div className="block">
+        <div></div>
+      </div>
 
       <nav className='elements-bar'>
         <a href="#">Inicio</a>

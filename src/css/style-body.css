@@ -1,4 +1,16 @@
 .conteiner-body{
-    margin-left: 150px;
+    margin-left: 250px;
+    text-align: center;
 }
+
+.separator{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 2px;
+    width: auto;
+    background-color: rgb(202, 202, 202);
+    border-radius: 2px;
+}
+
+
 
